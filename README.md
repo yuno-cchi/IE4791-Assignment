@@ -1,2 +1,3 @@
 # IE4791-Assignment
-IE4791 Database Systems Assignent
+
+This is my group's assignment submission for the NTU module IE4791 Database Systems.
